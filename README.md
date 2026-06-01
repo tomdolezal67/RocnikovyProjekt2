@@ -1,6 +1,6 @@
 # Ročníkový Projekt 2
 
-## Counter-Strike: Global Offensive / Counter-Strike2 
+## Counter-Strike2 
 
 Předmět: Mikropočítačové systémy 
 
