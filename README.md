@@ -352,5 +352,5 @@ Získal jsem nové informace o registraci zásahů (hitů), fungování technolo
 
 Projekt mi pomohl lépe porozumět technologiím, které stojí za vývojem moderních počítačových her, nebo minimálně CounterStrike2.
 
-Ještě jsem plánoval, že přidám video, pokud za tohle nedostanu vhodný počet bodů
+Ještě jsem plánoval, že přidám video, pokud za tohle nedostanu vhodný počet bodů.
 
