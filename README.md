@@ -90,9 +90,9 @@ Měření bylo provedeno pomocí zabudovaného zobrazení výkonu ve hře.
 
 ### Měření pingu
 
-#### - Ping udává dobu potřebnou k přenosu dat mezi hráčem a herním serverem.
+#### Ping udává dobu potřebnou k přenosu dat mezi hráčem a herním serverem.
 
-Během několika zápasů jsem zaznamenal:
+Během několika her/zápasů jsem zaznamenal:
 
 - průměrný ping: 24 ms
 
@@ -106,7 +106,7 @@ Naměřené hodnoty ukazují, že stabilní a rychlé internetové připojení m
 
 Během testování jsem sledoval také packet loss.
 
-Naměřená hodnota byla přibližně:
+Naměřená hodnota byla:
 
 - packet loss: 0 %
 
