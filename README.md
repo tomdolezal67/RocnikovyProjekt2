@@ -62,7 +62,7 @@ Ve starších verzích hry server zpracovával informace pouze v určitých čas
 Sub-Tick systém umožňuje zaznamenat akce hráče přesněji a server tak dokáže lépe určit okamžik výstřelu nebo pohybu.
 
 - Díky tomu je hra plynulejší a přesnější, zejména na vyšší úrovni hraní.
-- 
+  
 
 ## 6. Význam serverů
 
